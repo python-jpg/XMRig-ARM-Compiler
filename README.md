@@ -1,1 +1,1 @@
-WARNING: Will not work in termux on android unless you are rooted
+WARNING: to use XMRig in termux you will need to use the "xmrig-build-termux.sh" file
